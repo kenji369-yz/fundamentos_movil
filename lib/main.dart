@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fundamentos_movil/pages/homepages.dart';
+import 'package:fundamentos_movil/sidebar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.cyan,
       ),
-      home: const Homepages(),
+      home: const Esqueleto(),
     );
   }
 }
