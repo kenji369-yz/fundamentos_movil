@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:fundamentos_movil/pages/homepages.dart';
 import 'package:fundamentos_movil/sidebar.dart';
 
 void main() {
